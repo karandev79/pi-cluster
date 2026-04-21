@@ -1,5 +1,13 @@
 # Pi Cluster
-A 3d printed pi-cluster with 4 raspberry pi space with mounting place and clip for easy access.
+A 3d printed pi-cluster with 4 raspberry pi space with mounting place and clip based holders for easy access and ventilated airflow.
+
+### Features:
+
+- clip based mounting system for quick install and easy access.
+- ventilated design for improved airflow and cooling
+- modular design for easy access and expansion.
+
+- demo: https://autode.sk/4eAHJGk
 
 CAD:
 
